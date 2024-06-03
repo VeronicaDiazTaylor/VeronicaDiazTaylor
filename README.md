@@ -1,5 +1,5 @@
 ### Hi there 👋
-- 8 years since I started developing PocketMine-MP plugins in PHP.
+- 9 years since I started developing PocketMine-MP plugins in PHP.
 - Currently operating a large-scale Minecraft server project called BowyersMC.
 - Developing a Spigot plugin for Minecraft Java Edition in Kotlin.
 - Proficient in PHP, Kotlin, Java, and Python.
