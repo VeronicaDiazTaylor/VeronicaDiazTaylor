@@ -1,9 +1,6 @@
-[![](https://komarev.com/ghpvc/?username=VeronicaDiazTaylor&style=for-the-badge)](https://github.com/VeronicaDiazTaylor)
-[![](https://img.shields.io/twitter/follow/VDiazTaylor?style=for-the-badge&logo=x&logoColor=%23000000)](https://x.com/VeronicaDiazTaylor)  
-
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Jaro&size=30&pause=1000&width=435&lines=Thanks+for+coming+to+see!)](https://git.io/typing-svg)   
-
-![](https://github-readme-stats.vercel.app/api?theme=transparent&hide_title=true&include_all_commits=true&show_icons=true&username=VeronicaDiazTaylor)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Jaro&size=30&pause=1000&vCenter=true&width=435&height=36&lines=Thanks+for+coming+to+see!)](https://git.io/typing-svg)  
+![](https://github-readme-stats.vercel.app/api?theme=transparent&username=VeronicaDiazTaylor&custom_title=Stats&include_all_commits=true&hide_border=true&show_icons=true)  
+![](https://github-readme-stats.vercel.app/api/top-langs/?theme=transparent&username=VeronicaDiazTaylor&custom_title=Language&hide_border=true&layout=donut)
 
 <!--
 **VeronicaTaylor/VeronicaTaylor** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
