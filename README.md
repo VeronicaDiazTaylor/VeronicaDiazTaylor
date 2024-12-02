@@ -1,5 +1,10 @@
 ### Hi there 👋
-Hobbyist illustrator.
+PHP 9年以上  
+Java 3年くらい  
+Kotlin 4年くらい
+Python 3年以上
+javascript ちょっと
+
 
 <!--
 **VeronicaTaylor/VeronicaTaylor** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
