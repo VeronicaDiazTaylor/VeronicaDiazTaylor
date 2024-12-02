@@ -1,10 +1,7 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Chango&size=30&pause=1000&vCenter=true&color=0969DA&width=550&height=36&lines=Thanks+for+coming+to+see!)](https://git.io/typing-svg)  
-  
 [![](https://raw.githubusercontent.com/VeronicaDiazTaylor/VeronicaDiazTaylor/main/profile-summary-card-output/transparent/0-profile-details.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
 [![](https://raw.githubusercontent.com/VeronicaDiazTaylor/VeronicaDiazTaylor/main/profile-summary-card-output/transparent/3-stats.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards) [![](https://raw.githubusercontent.com/VeronicaDiazTaylor/VeronicaDiazTaylor/main/profile-summary-card-output/transparent/4-productive-time.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
-[![](https://raw.githubusercontent.com/VeronicaDiazTaylor/VeronicaDiazTaylor/main/profile-summary-card-output/transparent/1-repos-per-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards) [![](https://raw.githubusercontent.com/VeronicaDiazTaylor/VeronicaDiazTaylor/main/profile-summary-card-output/transparent/2-most-commit-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
-
-
+[![](https://raw.githubusercontent.com/VeronicaDiazTaylor/VeronicaDiazTaylor/main/profile-summary-card-output/transparent/1-repos-per-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards) [![](https://raw.githubusercontent.com/VeronicaDiazTaylor/VeronicaDiazTaylor/main/profile-summary-card-output/transparent/2-most-commit-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)  
 <!--
 **VeronicaTaylor/VeronicaTaylor** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
