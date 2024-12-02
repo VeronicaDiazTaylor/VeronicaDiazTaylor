@@ -1,8 +1,8 @@
 ### Hi there 👋
 PHP 9年以上  
 Java 3年くらい  
-Kotlin 4年くらい
-Python 3年以上
+Kotlin 4年くらい  
+Python 3年以上  
 javascript ちょっと
 
 
